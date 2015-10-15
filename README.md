@@ -1,1 +1,1 @@
-Skeleton for the Olimex STM32-LCD using SystemWorkbench
+Skeleton for the Olimex STM32-LCD and FreeRTOS using SystemWorkbench
